@@ -1,0 +1,5 @@
+c:\users\ammadtarar\documents\visual studio 2017\Projects\Ammad1\Ammad1\bin\Debug\Ammad1.exe
+c:\users\ammadtarar\documents\visual studio 2017\Projects\Ammad1\Ammad1\bin\Debug\Ammad1.pdb
+c:\users\ammadtarar\documents\visual studio 2017\Projects\Ammad1\Ammad1\obj\x64\Debug\Ammad1.csprojResolveAssemblyReference.cache
+c:\users\ammadtarar\documents\visual studio 2017\Projects\Ammad1\Ammad1\obj\x64\Debug\Ammad1.exe
+c:\users\ammadtarar\documents\visual studio 2017\Projects\Ammad1\Ammad1\obj\x64\Debug\Ammad1.pdb

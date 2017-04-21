@@ -1,0 +1,25 @@
+﻿<link rel="import" href="/sys/polymer/polymer.html">
+
+<template>
+    <template is="dom-bind">
+        <fieldset>
+            <label>Welcome</label>
+            <br />
+            <label>Create Main Corporation</label>
+            <br />
+            <label>ID</label>
+            <input value="{{model.Id$::input}}" />
+        </fieldset>
+        <fieldset>
+            <label>Name</label>
+            <input value="{{model.Name$::input}}" />
+        </fieldset>
+        <button value="{{model.Save$::click}}" onmousedown="++this.value">Save</button>
+    </template>
+
+    <template is="dom-repeat" items="{{model.Frachise}}">
+        <div>
+            <starcounter-include partial="{{item}}"></starcounter-include>
+        </div>
+    </template>
+</template>
